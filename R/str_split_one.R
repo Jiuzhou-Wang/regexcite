@@ -1,5 +1,5 @@
 #' Split a string
-#'
+#' The function is to split a charachter string split by comma
 #' @param x A character vector with , at most, one element.
 #' @inheritParams stringr::str_split
 #'
